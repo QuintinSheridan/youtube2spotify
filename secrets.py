@@ -1,9 +1,2 @@
-#SPOTIFY_CLIENT_ID='6949706b6001409eaacf8a5c9ff2a39e'
-SPOTIFY_CLIENT_ID='aywlqbye8w8bhxrrm2jjp34l8'
-
-#SPOTIFY_CLIENT_SECRET = 'e0225eeaf5fd459f94809c25bc68a68b'
-SPOTIFY_CLIENT_SECRET='BQB3RSgn9osSt9NBlep_uqqiKjLIUbVeDqLrhgmKBl_CzoYF2iuUiE3QR9GOYHk_3GFF5N3yH3rjru_mJZJeSNVRXO-Q7copcaIurmNhVl3xgG6AWl7M---Bv1H5khc6Cj5YbMnPxQAU44Agg7ph_qyDHr-XbBp9hCX1WbdQJAqImbHAAGOwDqY1GM2_lpmc0sL75uKmwo3BM2Hi72eGWnH5-dkI1bBMd0QB2U7j0ldMoPlV7n1JzhPHvHYsajfV0lncPvrTPiLQ93B-vszqOsWnvBuDrWpm_axWVvo'
-
-
-
-# GET https://accounts.spotify.com/authorize?client_id=6949706b6001409eaacf8a5c9ff2a39e&response_type=code&redirect_uri=https%3A%2F%2Fexample.com%2Fcallback&scope=user-read-private%20user-read-email&state=34fFs29kd09
+SPOTIFY_CLIENT_ID=''
+SPOTIFY_CLIENT_SECRET=''
